@@ -8,15 +8,15 @@
 <img align="right" alt="web_dev" width="35%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🌐 Visit my portfolio: [Aman Sharma Portfolio](https://amansharmamudgal.netlify.app/)
-- 🔭 I’m currently working on [LibraryExpress](https://github.com/AmanSharma114/amanlibrary)
+- 🔭 I’m currently working on AI-Powered Application Support Assisant
 
-- 🌱 I’m currently learning **Redux, Data Structures and Algorithms**
+- 🌱 I’m currently learning **LLM , RAG , LANGCHAIN AND LANGGRAPH**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanSharma114](https://github.com/AmanSharma114/)
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
-- 💬 Ask me about **Data Structures and Algorithms, Javascript, React, Java, Mysql**
+- 💬 Ask me about **AI , Data Structures and Algorithms, Javascript, React, Java, Mysql**
 
 - 📫 How to reach me: [amansharmamudgal114@gmail.com](mailto:amansharmamudgal114@gmail.com)
 
